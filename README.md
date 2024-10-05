@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Rishav, a full-time full-stack developer from Bojonegoro, Indonesian</div>  
+### <div align="center">I'm Dwi Setyo Ramadhani, a full-time full-stack developer from Bojonegoro, Indonesian</div>  
   
 
 - ❓ Ask me about anything related technologies  
