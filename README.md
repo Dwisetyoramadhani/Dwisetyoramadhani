@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Dwi Setyo Ramadhani, a full-stack and game developer from Bojonegoro, Indonesian</div>  
+### <div align="center">I'm Dwi Setyo Ramadhani, a full-stack and game developer from Bojonegoro, Indonesia</div>  
   
 
 - ❓ Ask me about anything related technologies  
