@@ -4,12 +4,12 @@
   
 
 ### <div align="center">I'm Dwi Setyo Ramadhani, a full-stack and game developer from Bojonegoro, Indonesia</div>  
-  
 
-- ❓ Ask me about anything related technologies  
-  
+💡 17 y.o. tech enthusiast  
+💻 Love to build cool stuff with Web Development & Game Development  
+🎨 Sometimes I also explore design & creativity  
+🚀 Still learning, still growing, and always curious  
 
-- ⚡ Fun fact: I'm 17 years old  
   
 
 <br/>  
