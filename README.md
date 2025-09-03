@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Dwi Setyo Ramadhani, a full-stack and game developer from Bojonegoro, Indonesia</div>  
+### <div align="center">I'm Dwi Setyo Ramadhani, a full-stack and game developer from Tuban, Indonesia</div>  
 
 💡 17 y.o. tech enthusiast  
 💻 Love to build cool stuff with Web Development & Game Development  
