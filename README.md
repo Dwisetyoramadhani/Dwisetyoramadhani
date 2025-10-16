@@ -5,7 +5,7 @@
 
 ### <div align="center">I'm Dwi Setyo Ramadhani, a full-stack and game developer from Tuban, Indonesia</div>  
 
-💡 17 y.o. tech enthusiast  
+💡 18 y.o. tech enthusiast  
 💻 Love to build cool stuff with Web Development & Game Development  
 🎨 Sometimes I also explore design & creativity  
 🚀 Still learning, still growing, and always curious  
