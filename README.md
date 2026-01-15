@@ -40,10 +40,6 @@ I'm an **18** year old developer passionate about creating engaging digital expe
   
 </div>
 
-## 💻 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ## 🤝 Let's Connect
 
