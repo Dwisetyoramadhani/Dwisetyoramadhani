@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a **18** year old developer passionate about creating engaging digital experiences. From building modern web applications to crafting immersive 3D worlds, I'm always excited to explore new technologies.
+I'm an **18** year old developer passionate about creating engaging digital experiences. From building modern web applications to crafting immersive 3D worlds, I'm always excited to explore new technologies.
 
 - 🌱 Currently learning and developing skills across various technologies
 - 💡 Love collaborating on open source projects
@@ -34,11 +34,11 @@ I'm a **18** year old developer passionate about creating engaging digital exper
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dwisetyoramadhani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=Dwisetyoramadhani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dwisetyoramadhani&layout=compact&theme=tokyonight&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwisetyoramadhani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dwisetyoramadhani&theme=tokyonight&hide_border=true)
+  <img src="https://streak-stats.demolab.com?user=Dwisetyoramadhani&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -46,26 +46,34 @@ I'm a **18** year old developer passionate about creating engaging digital exper
 
 <div align="center">
   
-  ![trophy](https://github-profile-trophy.vercel.app/?username=Dwisetyoramadhani&theme=tokyonight&no-frame=true&row=1&column=7)
+  <img src="https://github-profile-trophy.vercel.app/?username=Dwisetyoramadhani&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   
 </div>
 
 ## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dwisetyoramadhani&theme=tokyo-night&hide_border=true)](https://github.com/Dwisetyoramadhani)
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dwisetyoramadhani&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+  
+</div>
 
+## 💻 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](your-portfolio-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dwisetyoramadhani)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dwisetyoramadhani)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=Dwisetyoramadhani&color=blueviolet&style=flat-square&label=Profile+Views)
+  <img src="https://komarev.com/ghpvc/?username=Dwisetyoramadhani&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
   
   **💬 "Code is like humor. When you have to explain it, it's bad." - Cory House**
   
