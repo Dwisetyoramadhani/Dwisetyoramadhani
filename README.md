@@ -54,11 +54,6 @@ I'm a **18** year old developer passionate about creating engaging digital exper
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true)](https://github.com/Dwisetyoramadhani)
 
-## 💻 Project Highlights
-
-- 🎯 **[Project Name 1]** - Brief project description
-- 🌟 **[Project Name 2]** - Brief project description
-- 🚀 **[Project Name 3]** - Brief project description
 
 ## 🤝 Let's Connect
 
