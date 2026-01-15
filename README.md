@@ -34,11 +34,11 @@ I'm a **18** year old developer passionate about creating engaging digital exper
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dwisetyoramadhani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dwisetyoramadhani&layout=compact&theme=tokyonight&hide_border=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dwisetyoramadhani&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -46,13 +46,13 @@ I'm a **18** year old developer passionate about creating engaging digital exper
 
 <div align="center">
   
-  ![trophy](https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&row=1&column=7)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=Dwisetyoramadhani&theme=tokyonight&no-frame=true&row=1&column=7)
   
 </div>
 
 ## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true)](https://github.com/Dwisetyoramadhani)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dwisetyoramadhani&theme=tokyo-night&hide_border=true)](https://github.com/Dwisetyoramadhani)
 
 
 ## 🤝 Let's Connect
