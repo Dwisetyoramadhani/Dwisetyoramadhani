@@ -30,25 +30,7 @@ I'm an **18** year old developer passionate about creating engaging digital expe
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
-## 📊 GitHub Stats
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Dwisetyoramadhani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwisetyoramadhani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  
-  <img src="https://streak-stats.demolab.com?user=Dwisetyoramadhani&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=Dwisetyoramadhani&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  
-</div>
 
 ## 📈 Contribution Graph
 
