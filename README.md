@@ -65,7 +65,7 @@ I'm a **18** year old developer passionate about creating engaging digital exper
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&color=blueviolet&style=flat-square&label=Profile+Views)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Dwisetyoramadhani&color=blueviolet&style=flat-square&label=Profile+Views)
   
   **💬 "Code is like humor. When you have to explain it, it's bad." - Cory House**
   
