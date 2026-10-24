@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm an **18** year old developer passionate about creating engaging digital experiences. From building modern web applications to crafting immersive 3D worlds, I'm always excited to explore new technologies.
+I'm an **19** year old developer passionate about creating engaging digital experiences. From building modern web applications to crafting immersive 3D worlds, I'm always excited to explore new technologies.
 
 - 🌱 Currently learning and developing skills across various technologies
 - 💡 Love collaborating on open source projects
